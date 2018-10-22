@@ -67,3 +67,4 @@ fabric.properties
 
 #pycharm specicic
 *.pyc
+venv/*
